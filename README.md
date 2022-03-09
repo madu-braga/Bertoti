@@ -3,10 +3,19 @@
   
 ## :books: Introduction
 When websites and web tools are properly designed and coded, their use becomes easy and intuitive. There are some rules that must be followed, as we will discuss later and can be found in WCAG/W3C. However, as we will see, not all sites follow this rule, causing discomfort to the user and rendering the system unusable.
+> [Website Link](https://www.w3.org/WAI/WCAG21/quickref/#adaptable)<br>
+> [Abstract in PT](http://emag.governoeletronico.gov.br/cursoconteudista/desenvolvimento-web/recomendacoes-de-acessibilidade-wcag2.htmle)<br>
+<br>
+<hr>
+
+<p align="center">
+  <a href ="##Perceivable"> Perceivable </a>  • 
+<hr><br>
+
 
 ## 1. Principle – Perceivable
 Information and user interface components must be presentable to users in ways they can perceive.
-  ### 1.3.4 Orientation Level AA
+  ### 1.2.1 Audio-only and Video-only, Level A
   Content does not restrict its view and operation to a single display orientation, such as portrait or landscape, unless a specific display orientation is essential.
   <br><br><img src="Jogo.gif" width="660" height="500"><br>
   >Content does not restrict its view and operation to a single display orientation, such as portrait or landscape, unless a specific display orientation is essential.
