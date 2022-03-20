@@ -4,7 +4,6 @@
 ## :books: Introduction
 When websites and web tools are properly designed and coded, their use becomes easy and intuitive. There are some rules that must be followed, as we will discuss later and can be found in WCAG/W3C. However, as we will see, not all sites follow this rule, causing discomfort to the user and rendering the system unusable.
 > [Website Link](https://www.w3.org/WAI/WCAG21/quickref/#adaptable)<br>
-> [Abstract in PT](http://emag.governoeletronico.gov.br/cursoconteudista/desenvolvimento-web/recomendacoes-de-acessibilidade-wcag2.htmle)<br>
 <br>
 <hr>
 
@@ -20,15 +19,15 @@ When websites and web tools are properly designed and coded, their use becomes e
 Information and user interface components must be presentable to users in ways they can perceive.
  ### 1.1 – Text Alternatives
  Provide text alternatives for any non-text content so that it can be changed into other forms people need, such as large print, braille, speech, symbols or simpler language.
- ### 1.2.1 Non-text Content, Level A
+ ### 1.1.1 Non-text Content, Level A
   Content does not restrict its view and operation to a single display orientation, such as portrait or landscape, unless a specific display orientation is essential.
   <br><br><img src="Jogo.gif" width="660" height="500"><br>
   >Content does not restrict its view and operation to a single display orientation, such as portrait or landscape, unless a specific display orientation is essential.
 <br><br>
  ### 1.2 – Time-based Media
  Provide alternatives for time-based media.
- ### 1.2.2 Captions (Prerecorded), Level A
-  Captions are provided for all prerecorded audio content in synchronized media, except when the media is a media alternative for text and is clearly labeled as such.
+ ### 1.2.4 Captions (Live), Level AA
+Captions are provided for all live audio content in synchronized media.
   <br><br><img src="Jogo.gif" width="660" height="500"><br>
   >Content does not restrict its view and operation to a single display orientation, such as portrait or landscape, unless a specific display orientation is essential.
 <br><br>
