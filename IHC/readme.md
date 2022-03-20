@@ -26,6 +26,7 @@ Information and user interface components must be presentable to users in ways t
   >The Anime Online is an example of this heuristic and google is a counter example
   
 <br>
+
  ### 1.2 – Time-based Media
  Provide alternatives for time-based media.
  ### 1.2.4 Captions (Live), Level AA
