@@ -43,7 +43,9 @@ When the sequence in which content is presented affects its meaning, a correct r
   When the sequence in which content is presented affects its meaning, a correct reading sequence can be programmatically determined.
   <br><br><img src="Jogo.gif" width="660" height="500"><br>
   >Content does not restrict its view and operation to a single display orientation, such as portrait or landscape, unless a specific display orientation is essential.
-<br><br>
+
+<br>
+
 ### 1.4 – Distinguishable
  Make it easier for users to see and hear content including separating foreground from background.
  ### 1.3.2 Meaningful Sequence, Level A
@@ -51,7 +53,8 @@ When the sequence in which content is presented affects its meaning, a correct r
   When the sequence in which content is presented affects its meaning, a correct reading sequence can be programmatically determined.
   <br><br><img src="Jogo.gif" width="660" height="500"><br>
   >Content does not restrict its view and operation to a single display orientation, such as portrait or landscape, unless a specific display orientation is essential.
-<br><br>
+
+<br>
 
 ## ⚙️ WCAG Levels
 WCAG uses three levels to distinguish the extent of compliance with WCAG 2.1, these levels being A, AA and finally AAA. This is what they represent:
