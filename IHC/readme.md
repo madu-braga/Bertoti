@@ -21,9 +21,11 @@ Information and user interface components must be presentable to users in ways t
  Provide text alternatives for any non-text content so that it can be changed into other forms people need, such as large print, braille, speech, symbols or simpler language.
  ### 1.1.1 Non-text Content, Level A
   Content does not restrict its view and operation to a single display orientation, such as portrait or landscape, unless a specific display orientation is essential.
-  <br><br><img src="Jogo.gif" width="660" height="500"><br>
-  >Content does not restrict its view and operation to a single display orientation, such as portrait or landscape, unless a specific display orientation is essential.
-<br><br>
+  <br><br><img src="https://cdn.discordapp.com/attachments/826526043917647912/954185385603375124/unknown.png" width="280" height="380">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.discordapp.com/attachments/826526043917647912/954870448334712882/unknown.png" width="500" height="300"><br>
+  >The Anime Online is an example of this heuristic and google is a counter example
+  
+<br>
  ### 1.2 – Time-based Media
  Provide alternatives for time-based media.
  ### 1.2.4 Captions (Live), Level AA
