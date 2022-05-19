@@ -31,14 +31,14 @@ Information and user interface components must be presentable to users in ways t
  Provide alternatives for time-based media.
  ### 1.2.4 Captions (Live), Level AA
 Captions are provided for all live audio content in synchronized media.
-  <br><br><img src="https://cdn.discordapp.com/attachments/826526043917647912/951249982277705748/0ea8acc5-92fd-422a-ae11-6a5560cf988d.png" width="390" height="200"><br>
+  <br><br><img src="https://cdn.discordapp.com/attachments/826526043917647912/951249982277705748/0ea8acc5-92fd-422a-ae11-6a5560cf988d.png" width="380" height="200"><br>
   >Teams is an example of this heuristic and some social media platforms are a counter example, because they don't have that function
 
 <br>
 
 ### 1.3 – Adaptable
  Create content that can be presented in different ways (for example simpler layout) without losing information or structure.
- ### 1.3.2 Meaningful Sequence, Level A
+ ### 1.3.2 Orientation, Level AA
 When the sequence in which content is presented affects its meaning, a correct reading sequence can be programmatically determined.
   When the sequence in which content is presented affects its meaning, a correct reading sequence can be programmatically determined.
   <br><br><img src="Jogo.gif" width="660" height="500"><br>
