@@ -61,10 +61,10 @@ User interface components and navigation must be operable.
  Make all functionality available from a keyboard.
  ### 2.1.3 Keyboard (No Exception), Level AAA
  All functionality of the content is operable through a keyboard interface without requiring specific timings for individual keystrokes.
-  <br><br><img src=".png" width="280" height="380"<br>
+  <br><br><img src=".png" width="280" height="380"><br>
   >Google is an example of this heuristic and Teams is a counter example, because they don't have this function
   
-<br><br>
+<br>
 
  ### 2.2 – Enough Time
  Provide users enough time to read and use content.
