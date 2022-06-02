@@ -38,21 +38,19 @@ Captions are provided for all live audio content in synchronized media.
 
 ### 1.3 – Adaptable
  Create content that can be presented in different ways (for example simpler layout) without losing information or structure.
- ### 1.3.2 Orientation, Level AA
-When the sequence in which content is presented affects its meaning, a correct reading sequence can be programmatically determined.
-  When the sequence in which content is presented affects its meaning, a correct reading sequence can be programmatically determined.
+ ### 1.3.4 Orientation, Level AA
+Content does not restrict its view and operation to a single display orientation, such as portrait or landscape, unless a specific display orientation is essential.
   <br><br><img src="Jogo.gif" width="660" height="500"><br>
-  >Content does not restrict its view and operation to a single display orientation, such as portrait or landscape, unless a specific display orientation is essential.
+  >Youtube is an example of this heuristic and Drops is a counter example, because they don't have that function
 
 <br>
 
 ### 1.4 – Distinguishable
  Make it easier for users to see and hear content including separating foreground from background.
- ### 1.3.2 Meaningful Sequence, Level A
-When the sequence in which content is presented affects its meaning, a correct reading sequence can be programmatically determined.
-  When the sequence in which content is presented affects its meaning, a correct reading sequence can be programmatically determined.
+ ### 1.4.1 Use of Color, Level A
+Color is not used as the only visual means of conveying information, indicating an action, prompting a response, or distinguishing a visual element.
   <br><br><img src="Jogo.gif" width="660" height="500"><br>
-  >Content does not restrict its view and operation to a single display orientation, such as portrait or landscape, unless a specific display orientation is essential.
+  >Duolingo is an example of this heuristic and siga is a counter example, because they don't have that function
 
 <br>
 
