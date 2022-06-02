@@ -8,7 +8,7 @@ When websites and web tools are properly designed and coded, their use becomes e
 <hr>
 
 <p align="center">
-  <a href ="##Perceivable"> Perceptible </a>  • 
+  <a href ="##-1. Principle – Perceivable"> Perceptible </a>  • 
   <a href ="##Perceivable"> Operable </a>  • 
   <a href ="##Perceivable"> Understandable </a>  • 
   <a href ="##Perceivablw"> Robust </a> 
@@ -40,7 +40,7 @@ Captions are provided for all live audio content in synchronized media.
  Create content that can be presented in different ways (for example simpler layout) without losing information or structure.
  ### 1.3.4 Orientation, Level AA
 Content does not restrict its view and operation to a single display orientation, such as portrait or landscape, unless a specific display orientation is essential.
-  <br><br><img src="Jogo.gif" width="660" height="500"><br>
+  <br><br><img src=".gif" width="660" height="500"><br>
   >Youtube is an example of this heuristic and Drops is a counter example, because they don't have that function
 
 <br>
@@ -49,10 +49,41 @@ Content does not restrict its view and operation to a single display orientation
  Make it easier for users to see and hear content including separating foreground from background.
  ### 1.4.1 Use of Color, Level A
 Color is not used as the only visual means of conveying information, indicating an action, prompting a response, or distinguishing a visual element.
-  <br><br><img src="Jogo.gif" width="660" height="500"><br>
+  <br><br><img src=".gif" width="660" height="500"><br>
   >Duolingo is an example of this heuristic and siga is a counter example, because they don't have that function
 
 <br>
+<br>
+## 2. Principle – Operable
+User interface components and navigation must be operable.
+ ### 2.1 – Keyboard Accessible
+ Make all functionality available from a keyboard.
+ ### 2.1.3 Keyboard (No Exception), Level AAA
+ All functionality of the content is operable through a keyboard interface without requiring specific timings for individual keystrokes.
+  <br><br><img src=".png" width="280" height="380">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  >Google is an example of this heuristic and Teams is a counter example, because they don't have that function
+  
+<br>
+
+ ### 2.2 – Enough Time
+ Provide users enough time to read and use content.
+ ### 2.2.4 Interruptions, Level AAA
+Interruptions can be postponed or suppressed by the user, except interruptions involving an emergency.
+  <br><br><img src=".png" width="380" height="200"><br>
+  >Netflix is an example of this heuristic, because after a time it asks if you want to continue watching
+
+<br>
+
+ ### 2.3 – Seizures and Physical Reactions
+ Do not design content in a way that is known to cause seizures or physical reactions.
+ ### 2.3.3 Animation from Interactions, Level AAA
+Motion animation triggered by interaction can be disabled, unless the animation is essential to the functionality or the information being conveyed.
+   <br><br><img src=".png" width="280"  height="380">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src=".png" width="480" height="300"><br>
+  >An example of this heuristic is the salesforce that uses UX concepts, also streaming platforms, for example, Disney+ and Star+ and a counter example is the episode "Dennō Senshi Porygon" - pokemon, that caused countless cases a lot of seizures/physical reactions.
+
+<br>
+
 
 ## ⚙️ WCAG Levels
 WCAG uses three levels to distinguish the extent of compliance with WCAG 2.1, these levels being A, AA and finally AAA. This is what they represent:
