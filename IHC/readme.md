@@ -41,7 +41,7 @@ Captions are provided for all live audio content in synchronized media.
  ### 1.3.4 Orientation, Level AA
 Content does not restrict its view and operation to a single display orientation, such as portrait or landscape, unless a specific display orientation is essential.
   <br><br><img src=".gif" width="660" height="500"><br>
-  >Youtube is an example of this heuristic and Drops is a counter example, because they don't have that function
+ >Youtube is an example of this heuristic and Drops is a counter example, because they don't have that function
 
 <br>
 
@@ -54,16 +54,17 @@ Color is not used as the only visual means of conveying information, indicating 
 
 <br>
 <br>
+
 ## 2. Principle – Operable
 User interface components and navigation must be operable.
  ### 2.1 – Keyboard Accessible
  Make all functionality available from a keyboard.
  ### 2.1.3 Keyboard (No Exception), Level AAA
  All functionality of the content is operable through a keyboard interface without requiring specific timings for individual keystrokes.
-  <br><br><img src=".png" width="280" height="380">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <br><br><img src=".png" width="280" height="380"<br>
   >Google is an example of this heuristic and Teams is a counter example, because they don't have that function
   
-<br>
+<br><br>
 
  ### 2.2 – Enough Time
  Provide users enough time to read and use content.
