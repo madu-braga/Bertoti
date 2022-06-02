@@ -8,7 +8,7 @@ When websites and web tools are properly designed and coded, their use becomes e
 <hr>
 
 <p align="center">
-  <a href ="##-1. Principle – Perceivable"> Perceptible </a>  • 
+  <a href ="##-1.-Principle-–-Perceivable"> Perceptible </a>  • 
   <a href ="##Perceivable"> Operable </a>  • 
   <a href ="##Perceivable"> Understandable </a>  • 
   <a href ="##Perceivablw"> Robust </a> 
