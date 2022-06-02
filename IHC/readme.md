@@ -98,7 +98,8 @@ Web pages have titles that describe topic or purpose.
 Make it easier for users to operate functionality through various inputs beyond keyboard.
  ### 2.5.4 Motion Actuation, Level A
 Functionality that can be operated by device motion or user motion can also be operated by user interface components and responding to the motion can be disabled to prevent accidental actuation
-   <br><br><img src=".png" width="280"  height="380"><br>
+   <br><br><img src=".png" width="280" height="380">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src=".png" width="480" height="300"><br>
   >An example of this heuristic is the galaxy watch and the Sansung smartphone is a a counter example, because they don't have this function
 
 <br>
