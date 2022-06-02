@@ -32,7 +32,7 @@ Information and user interface components must be presentable to users in ways t
  ### 1.2.4 Captions (Live), Level AA
 Captions are provided for all live audio content in synchronized media.
   <br><br><img src="https://cdn.discordapp.com/attachments/826526043917647912/951249982277705748/0ea8acc5-92fd-422a-ae11-6a5560cf988d.png" width="380" height="200"><br>
-  >Teams is an example of this heuristic and some social media platforms are a counter example, because they don't have that function
+  >Teams is an example of this heuristic and some social media platforms are a counter example, because they don't have this function
 
 <br>
 
@@ -41,7 +41,7 @@ Captions are provided for all live audio content in synchronized media.
  ### 1.3.4 Orientation, Level AA
 Content does not restrict its view and operation to a single display orientation, such as portrait or landscape, unless a specific display orientation is essential.
   <br><br><img src=".gif" width="660" height="500"><br>
- >Youtube is an example of this heuristic and Drops is a counter example, because they don't have that function
+ >Youtube is an example of this heuristic and Drops is a counter example, because they don't have this function
 
 <br>
 
@@ -50,7 +50,7 @@ Content does not restrict its view and operation to a single display orientation
  ### 1.4.1 Use of Color, Level A
 Color is not used as the only visual means of conveying information, indicating an action, prompting a response, or distinguishing a visual element.
   <br><br><img src=".gif" width="660" height="500"><br>
-  >Duolingo is an example of this heuristic and siga is a counter example, because they don't have that function
+  >Duolingo is an example of this heuristic and siga is a counter example, because they don't have this function
 
 <br>
 <br>
@@ -62,7 +62,7 @@ User interface components and navigation must be operable.
  ### 2.1.3 Keyboard (No Exception), Level AAA
  All functionality of the content is operable through a keyboard interface without requiring specific timings for individual keystrokes.
   <br><br><img src=".png" width="280" height="380"<br>
-  >Google is an example of this heuristic and Teams is a counter example, because they don't have that function
+  >Google is an example of this heuristic and Teams is a counter example, because they don't have this function
   
 <br><br>
 
@@ -81,10 +81,27 @@ Interruptions can be postponed or suppressed by the user, except interruptions i
 Motion animation triggered by interaction can be disabled, unless the animation is essential to the functionality or the information being conveyed.
    <br><br><img src=".png" width="280"  height="380">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src=".png" width="480" height="300"><br>
-  >An example of this heuristic is the salesforce that uses UX concepts, also streaming platforms, for example, Disney+ and Star+ and a counter example is the episode "Dennō Senshi Porygon" - pokemon, that caused countless cases a lot of seizures/physical reactions.
+  >An example of this heuristic is the salesforce that uses UX concepts, also streaming platforms, for example, Disney+ and Star+ and a counter example is the episode "Dennō Senshi Porygon" - pokemon, that caused countless cases a lot of seizures/physical reactions
 
 <br>
 
+ ### 2.4 – Navigable
+Provide ways to help users navigate, find content, and determine where they are.
+ ### 2.4.2 Page Titled, Level A
+Web pages have titles that describe topic or purpose.
+   <br><br><img src=".png" width="280"  height="380"><br>
+  >An example of this heuristic is the trailhead 
+
+<br>
+
+ ### 2.5 – Input Modalities
+Make it easier for users to operate functionality through various inputs beyond keyboard.
+ ### 2.5.4 Motion Actuation, Level A
+Functionality that can be operated by device motion or user motion can also be operated by user interface components and responding to the motion can be disabled to prevent accidental actuation
+   <br><br><img src=".png" width="280"  height="380"><br>
+  >An example of this heuristic is the galaxy watch and the Sansung smartphone is a a counter example, because they don't have this function
+
+<br>
 
 ## ⚙️ WCAG Levels
 WCAG uses three levels to distinguish the extent of compliance with WCAG 2.1, these levels being A, AA and finally AAA. This is what they represent:
