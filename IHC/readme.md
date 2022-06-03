@@ -49,7 +49,7 @@ Content does not restrict its view and operation to a single display orientation
  Make it easier for users to see and hear content including separating foreground from background.
  ### 1.4.1 Use of Color, Level A
 Color is not used as the only visual means of conveying information, indicating an action, prompting a response, or distinguishing a visual element.
-  <br><br><img src=".gif" width="660" height="500"><br>
+  <br><br><img src="https://cdn.discordapp.com/attachments/826526043917647912/951259137935826954/unknown.png" width="820"> <br>
   >Duolingo is an example of this heuristic and siga is a counter example, because they don't have this function
 
 <br>
