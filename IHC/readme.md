@@ -9,9 +9,9 @@ When websites and web tools are properly designed and coded, their use becomes e
 
 <p align="center">
   <a href ="#1-principle-perceivable"> Perceptible </a>  • 
-  <a href ="#Perceivable"> Operable </a>  • 
-  <a href ="#Perceivable"> Understandable </a>  • 
-  <a href ="#Perceivablw"> Robust </a> 
+  <a href ="#2-principle-operable"> Operable </a>  • 
+  <a href ="#3-principle-understandable"> Understandable </a>  • 
+  <a href ="#4-principle-robust"> Robust </a> 
 <hr><br>
 
 
@@ -55,7 +55,7 @@ Color is not used as the only visual means of conveying information, indicating 
 <br>
 <br>
 
-## 2. Principle – Operable
+## 2 Principle Operable
 User interface components and navigation must be operable.
  ### 2.1 – Keyboard Accessible
  Make all functionality available from a keyboard.
@@ -104,7 +104,7 @@ Functionality that can be operated by device motion or user motion can also be o
 
 <br>
 
-## 3. Principle – Understandable
+## 3 Principle Understandable
 Information and the operation of the user interface must be understandable.
  ###  3.1 – Readable
 Make text content readable and understandable.
@@ -134,7 +134,7 @@ Navigational mechanisms that are repeated on multiple Web pages within a set of 
 
 <br>
 
-## 4. Principle – Robust
+## 4 Principle Robust
 Content must be robust enough that it can be interpreted by a wide variety of user agents, including assistive technologies.
  ###  4.1 – Compatible
 Maximize compatibility with current and future user agents, including assistive technologies.
