@@ -104,6 +104,47 @@ Functionality that can be operated by device motion or user motion can also be o
 
 <br>
 
+## 3. Principle – Understandable
+Information and the operation of the user interface must be understandable.
+ ###  3.1 – Readable
+Make text content readable and understandable.
+ ### 3.1.2 Language of Parts, Level AA
+ The human language of each passage or phrase in the content can be programmatically determined except for proper names, technical terms, words of indeterminate language, and words or phrases that have become part of the vernacular of the immediately surrounding text.
+  <br><br><img src=".png" width="280" height="380"><br>
+  >Salesforce is an example of this heuristic
+  
+<br>
+
+ ### 3.2 – Predictable
+ Make Web pages appear and operate in predictable ways.
+ ### 3.2.3 Consistent Navigation, Level AA
+Navigational mechanisms that are repeated on multiple Web pages within a set of Web pages occur in the same relative order each time they are repeated, unless a change is initiated by the user.
+  <br><br><img src=".png" width="380" height="200"><br>
+  >Trailhead is an example of this heuristic
+
+<br>
+
+ ### 3.3 – Input Assistance
+ Help users avoid and correct mistakes.
+ ### Error Identification Level A
+ If an input error is automatically detected, the item that is in error is identified and the error is described to the user in text.
+   <br><br><img src=".png" width="280"  height="380">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src=".png" width="480" height="300"><br>
+  >An example of this heuristic is the Notion and VSCode and a counter example is Note that doesn't have this function
+
+<br>
+
+## 4. Principle – Robust
+Content must be robust enough that it can be interpreted by a wide variety of user agents, including assistive technologies.
+ ###  4.1 – Compatible
+Maximize compatibility with current and future user agents, including assistive technologies.
+ ### 3.1.2 Language of Parts, Level AA
+ The human language of each passage or phrase in the content can be programmatically determined except for proper names, technical terms, words of indeterminate language, and words or phrases that have become part of the vernacular of the immediately surrounding text.
+  <br><br><img src=".png" width="280" height="380"><br>
+  >Salesforce is an example of this heuristic
+  
+<br>
+
 ## ⚙️ WCAG Levels
 WCAG uses three levels to distinguish the extent of compliance with WCAG 2.1, these levels being A, AA and finally AAA. This is what they represent:
 
