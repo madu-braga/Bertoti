@@ -8,14 +8,14 @@ When websites and web tools are properly designed and coded, their use becomes e
 <hr>
 
 <p align="center">
-  <a href ="##-1.-Principle-–-Perceivable"> Perceptible </a>  • 
+  <a href ="##1.Principle_Perceivable"> Perceptible </a>  • 
   <a href ="##Perceivable"> Operable </a>  • 
   <a href ="##Perceivable"> Understandable </a>  • 
   <a href ="##Perceivablw"> Robust </a> 
 <hr><br>
 
 
-## 1. Principle – Perceivable
+##1.Principle_Perceivable
 Information and user interface components must be presentable to users in ways they can perceive.
  ### 1.1 – Text Alternatives
  Provide text alternatives for any non-text content so that it can be changed into other forms people need, such as large print, braille, speech, symbols or simpler language.
@@ -138,10 +138,10 @@ Navigational mechanisms that are repeated on multiple Web pages within a set of 
 Content must be robust enough that it can be interpreted by a wide variety of user agents, including assistive technologies.
  ###  4.1 – Compatible
 Maximize compatibility with current and future user agents, including assistive technologies.
- ### 3.1.2 Language of Parts, Level AA
- The human language of each passage or phrase in the content can be programmatically determined except for proper names, technical terms, words of indeterminate language, and words or phrases that have become part of the vernacular of the immediately surrounding text.
+ ### 4.1.1 Parsing, Level A
+ In content implemented using markup languages, elements have complete start and end tags, elements are nested according to their specifications, elements do not contain duplicate attributes, and any IDs are unique, except where the specifications allow these features.
   <br><br><img src=".png" width="280" height="380"><br>
-  >Salesforce is an example of this heuristic
+  >Trailhead is an example of this heuristic
   
 <br>
 
