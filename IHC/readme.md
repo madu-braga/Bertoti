@@ -8,14 +8,14 @@ When websites and web tools are properly designed and coded, their use becomes e
 <hr>
 
 <p align="center">
-  <a href ="#1.principle-perceivable"> Perceptible </a>  • 
+  <a href ="#principle-perceivable"> Perceptible </a>  • 
   <a href ="#Perceivable"> Operable </a>  • 
   <a href ="#Perceivable"> Understandable </a>  • 
   <a href ="#Perceivablw"> Robust </a> 
 <hr><br>
 
 
-## 1.Principle Perceivable
+## Principle Perceivable
 Information and user interface components must be presentable to users in ways they can perceive.
  ### 1.1 – Text Alternatives
  Provide text alternatives for any non-text content so that it can be changed into other forms people need, such as large print, braille, speech, symbols or simpler language.
@@ -62,7 +62,7 @@ User interface components and navigation must be operable.
  ### 2.1.3 Keyboard (No Exception), Level AAA
  All functionality of the content is operable through a keyboard interface without requiring specific timings for individual keystrokes.
   <br><br><img src=".png" width="280" height="380"><br>
-  >Google is an example of this heuristic and Teams is a counter example, because they don't have this function
+  >Google is an example of this heuristic and Duolingo is a counter example, because they don't have this function
   
 <br>
 
