@@ -15,7 +15,7 @@ When websites and web tools are properly designed and coded, their use becomes e
 <hr><br>
 
 
-##1.Principle_Perceivable
+## 1.Principle_Perceivable
 Information and user interface components must be presentable to users in ways they can perceive.
  ### 1.1 – Text Alternatives
  Provide text alternatives for any non-text content so that it can be changed into other forms people need, such as large print, braille, speech, symbols or simpler language.
