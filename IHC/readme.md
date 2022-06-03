@@ -8,14 +8,14 @@ When websites and web tools are properly designed and coded, their use becomes e
 <hr>
 
 <p align="center">
-  <a href ="#principle-perceivable"> Perceptible </a>  • 
+  <a href ="#1-principle-perceivable"> Perceptible </a>  • 
   <a href ="#Perceivable"> Operable </a>  • 
   <a href ="#Perceivable"> Understandable </a>  • 
   <a href ="#Perceivablw"> Robust </a> 
 <hr><br>
 
 
-## Principle Perceivable
+## 1 Principle Perceivable
 Information and user interface components must be presentable to users in ways they can perceive.
  ### 1.1 – Text Alternatives
  Provide text alternatives for any non-text content so that it can be changed into other forms people need, such as large print, braille, speech, symbols or simpler language.
