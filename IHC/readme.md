@@ -89,7 +89,7 @@ Motion animation triggered by interaction can be disabled, unless the animation 
 Provide ways to help users navigate, find content, and determine where they are.
  ### 2.4.2 Page Titled, Level A
 Web pages have titles that describe topic or purpose.
-   <br><br><img src="https://cdn.discordapp.com/attachments/826526043917647912/983324846631059506/unknown.png" width="590"  height="460"><br>
+   <br><br><img src="https://cdn.discordapp.com/attachments/826526043917647912/983324846631059506/unknown.png" width="640"  height="500"><br>
   >An example of this heuristic is the trailhead 
 
 <br>
@@ -98,7 +98,7 @@ Web pages have titles that describe topic or purpose.
 Make it easier for users to operate functionality through various inputs beyond keyboard.
  ### 2.5.4 Motion Actuation, Level A
 Functionality that can be operated by device motion or user motion can also be operated by user interface components and responding to the motion can be disabled to prevent accidental actuation <br><br>
-  <img src="https://cdn.discordapp.com/attachments/826526043917647912/983325879230930994/unknown.png" width="480"  height="320"><br>
+  <img src="https://cdn.discordapp.com/attachments/826526043917647912/983325879230930994/unknown.png" width="480"  height="300"><br>
   >Examples of this heuristic are the galaxy watch and the Sansung smartphone is a a counter example, because they don't have this function
 
 <br>
@@ -118,7 +118,7 @@ Make text content readable and understandable.
  Make Web pages appear and operate in predictable ways.
  ### 3.2.3 Consistent Navigation, Level AA
 Navigational mechanisms that are repeated on multiple Web pages within a set of Web pages occur in the same relative order each time they are repeated, unless a change is initiated by the user.
-  <br><br><img src=".png" width="380" height="200"><br>
+  <br><br><img src="https://cdn.discordapp.com/attachments/826526043917647912/983328677196595230/unknown.png" width="380" height="200"><br>
   >Trailhead is an example of this heuristic
 
 <br>
