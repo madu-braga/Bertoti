@@ -40,7 +40,7 @@ Captions are provided for all live audio content in synchronized media.
  Create content that can be presented in different ways (for example simpler layout) without losing information or structure.
  ### 1.3.4 Orientation, Level AA
 Content does not restrict its view and operation to a single display orientation, such as portrait or landscape, unless a specific display orientation is essential.
-   <br><br><img src="https://cdn.discordapp.com/attachments/826526043917647912/983321072420130836/unknown.png" width="790" height="450"><br>
+   <br><br><img src="https://cdn.discordapp.com/attachments/826526043917647912/983321072420130836/unknown.png" width="890" height="490"><br>
  >Youtube is an example of this heuristic and Drops is a counter example, because they don't have this function
 
 <br>
@@ -89,7 +89,7 @@ Motion animation triggered by interaction can be disabled, unless the animation 
 Provide ways to help users navigate, find content, and determine where they are.
  ### 2.4.2 Page Titled, Level A
 Web pages have titles that describe topic or purpose.
-   <br><br><img src=".png" width="280"  height="380"><br>
+   <br><br><img src="https://cdn.discordapp.com/attachments/826526043917647912/983324846631059506/unknown.png" width="590"  height="460"><br>
   >An example of this heuristic is the trailhead 
 
 <br>
@@ -97,10 +97,9 @@ Web pages have titles that describe topic or purpose.
  ### 2.5 – Input Modalities
 Make it easier for users to operate functionality through various inputs beyond keyboard.
  ### 2.5.4 Motion Actuation, Level A
-Functionality that can be operated by device motion or user motion can also be operated by user interface components and responding to the motion can be disabled to prevent accidental actuation
-   <br><br><img src=".png" width="280" height="380">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src=".png" width="480" height="300"><br>
-  >An example of this heuristic is the galaxy watch and the Sansung smartphone is a a counter example, because they don't have this function
+Functionality that can be operated by device motion or user motion can also be operated by user interface components and responding to the motion can be disabled to prevent accidental actuation <br><br>
+  <img src="https://cdn.discordapp.com/attachments/826526043917647912/983325879230930994/unknown.png" width="480"  height="320"><br>
+  >Examples of this heuristic are the galaxy watch and the Sansung smartphone is a a counter example, because they don't have this function
 
 <br>
 
@@ -110,8 +109,8 @@ Information and the operation of the user interface must be understandable.
 Make text content readable and understandable.
  ### 3.1.2 Language of Parts, Level AA
  The human language of each passage or phrase in the content can be programmatically determined except for proper names, technical terms, words of indeterminate language, and words or phrases that have become part of the vernacular of the immediately surrounding text.
-  <br><br><img src=".png" width="280" height="380"><br>
-  >Salesforce is an example of this heuristic
+  <br><br><img src="https://cdn.discordapp.com/attachments/826526043917647912/983326681232183346/unknown.png" width="860" height="460"><br><br>
+  >Trailhead and Salesforce are examples of this heuristic
   
 <br>
 
