@@ -40,7 +40,7 @@ Captions are provided for all live audio content in synchronized media.
  Create content that can be presented in different ways (for example simpler layout) without losing information or structure.
  ### 1.3.4 Orientation, Level AA
 Content does not restrict its view and operation to a single display orientation, such as portrait or landscape, unless a specific display orientation is essential.
-  <br><br><img src=".gif" width="660" height="500"><br>
+   <br><br><img src="https://cdn.discordapp.com/attachments/826526043917647912/983321072420130836/unknown.png" width="790" height="450"><br>
  >Youtube is an example of this heuristic and Drops is a counter example, because they don't have this function
 
 <br>
@@ -61,8 +61,8 @@ User interface components and navigation must be operable.
  Make all functionality available from a keyboard.
  ### 2.1.3 Keyboard (No Exception), Level AAA
  All functionality of the content is operable through a keyboard interface without requiring specific timings for individual keystrokes.
-  <br><br><img src=".png" width="280" height="380"><br>
-  >Google is an example of this heuristic and Duolingo is a counter example, because they don't have this function
+  <br><br><img src="https://cdn.discordapp.com/attachments/826526043917647912/983322025982582814/unknown.png" width="500" height="400"><br>
+  >Discord is an example of this heuristic and Duolingo is a counter example, because they don't have this function
   
 <br>
 
@@ -70,7 +70,7 @@ User interface components and navigation must be operable.
  Provide users enough time to read and use content.
  ### 2.2.4 Interruptions, Level AAA
 Interruptions can be postponed or suppressed by the user, except interruptions involving an emergency.
-  <br><br><img src=".png" width="380" height="200"><br>
+  <br><br><img src="https://cdn.discordapp.com/attachments/826526043917647912/983322885429006376/unknown.png" width="670" height="350"><br>
   >Netflix is an example of this heuristic, because after a time it asks if you want to continue watching
 
 <br>
@@ -79,8 +79,8 @@ Interruptions can be postponed or suppressed by the user, except interruptions i
  Do not design content in a way that is known to cause seizures or physical reactions.
  ### 2.3.3 Animation from Interactions, Level AAA
 Motion animation triggered by interaction can be disabled, unless the animation is essential to the functionality or the information being conveyed.
-   <br><br><img src=".png" width="280"  height="380">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src=".png" width="480" height="300"><br>
+   <br><br><img src="https://cdn.discordapp.com/attachments/826526043917647912/983323679805030441/unknown.png" width="370" height="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.discordapp.com/attachments/826526043917647912/983324252008755220/unknown.png" width="480" height="300"><br>
   >An example of this heuristic is the salesforce that uses UX concepts, also streaming platforms, for example, Disney+ and Star+ and a counter example is the episode "Dennō Senshi Porygon" - pokemon, that caused countless cases a lot of seizures/physical reactions
 
 <br>
