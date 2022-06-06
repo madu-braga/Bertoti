@@ -118,7 +118,7 @@ Make text content readable and understandable.
  Make Web pages appear and operate in predictable ways.
  ### 3.2.3 Consistent Navigation, Level AA
 Navigational mechanisms that are repeated on multiple Web pages within a set of Web pages occur in the same relative order each time they are repeated, unless a change is initiated by the user.
-  <br><br><img src="https://cdn.discordapp.com/attachments/826526043917647912/983328677196595230/unknown.png" width="380" height="200"><br>
+  <br><br><img src="https://cdn.discordapp.com/attachments/826526043917647912/983328677196595230/unknown.png" width="740" height="380"><br>
   >Trailhead is an example of this heuristic
 
 <br>
@@ -127,8 +127,8 @@ Navigational mechanisms that are repeated on multiple Web pages within a set of 
  Help users avoid and correct mistakes.
  ### Error Identification Level A
  If an input error is automatically detected, the item that is in error is identified and the error is described to the user in text.
-   <br><br><img src=".png" width="280"  height="380">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src=".png" width="480" height="300"><br>
+   <br><br>
+  <img src="https://cdn.discordapp.com/attachments/826526043917647912/983329251690446858/unknown.png" width="440" height="360"><br>
   >An example of this heuristic is the Notion and VSCode and a counter example is Note that doesn't have this function
 
 <br>
@@ -139,7 +139,7 @@ Content must be robust enough that it can be interpreted by a wide variety of us
 Maximize compatibility with current and future user agents, including assistive technologies.
  ### 4.1.1 Parsing, Level A
  In content implemented using markup languages, elements have complete start and end tags, elements are nested according to their specifications, elements do not contain duplicate attributes, and any IDs are unique, except where the specifications allow these features.
-  <br><br><img src=".png" width="280" height="380"><br>
+  <br><br><img src="https://cdn.discordapp.com/attachments/826526043917647912/983329991901200434/unknown.png" width="65%"><br>
   >Trailhead is an example of this heuristic
   
 <br>
