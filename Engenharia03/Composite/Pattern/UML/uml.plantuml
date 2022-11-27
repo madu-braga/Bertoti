@@ -1,0 +1,28 @@
+@startuml
+
+' composite
++interface Forma{
+    +void desenho()
+}
+
+' leafs
++class Circulo{
+    +void desenho()
+}
+
++class Triangulo{
+    +void desenho()
+}
+
++class Desenho{
+    -formas:List<Forma>
+    +void desenho()
+    +void adicionar(Forma)
+    ' +void remover()
+    ' +void limpar()
+}
+
+Desenho ..|> Forma
+Desenho o-- Forma
+Triangulo ..|> Forma
+Circulo ..|> Forma

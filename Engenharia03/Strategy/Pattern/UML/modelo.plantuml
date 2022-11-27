@@ -1,0 +1,50 @@
+@startuml modelo 
+
++interface Assiste{
+    +void assistir()
+}
+
++class Pista{
+    +Assistir assistir
+    +void setAssistir()
+    +void assistir() 
+}
+
++class Arquibancada{
+    +void assistir()
+}
+
++class Normal{
+    +void assistir()
+}
+
++class Premium{
+    +void assistir()
+}
+
++interface Toca{
+    +void tocar()
+}
+
++class Banda{
+    +Tocar tocar
+    +void setTocar()
+    +void executar()
+}
+
++class Internacional{
+    +void tocar()
+}
+
++class Nacional{
+    +void tocar()
+}
+
+Arquibancada..|>Assiste
+Internacional..|>Toca
+Nacional..|>Toca
+Normal..|>Assiste
+Premium..|>Assiste
+Banda*-->Toca
+Pista*-->Assiste
+@enduml
