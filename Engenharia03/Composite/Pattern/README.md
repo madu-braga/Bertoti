@@ -1,4 +1,4 @@
 # Design Pattern Composite
 Uml do projeto
 
-<img src="https://user-images.githubusercontent.com/58821700/195718196-4bf525e1-d2ee-4ec8-8d0e-1cde56362a2A.png"/>
+<img src="https://cdn.discordapp.com/attachments/901303352883822635/1046757431641911377/unknown.png"/>
