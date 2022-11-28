@@ -24,3 +24,4 @@ public class App {
         desenho.remover(cir);
     }
 }
+
